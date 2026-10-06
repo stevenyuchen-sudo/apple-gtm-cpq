@@ -1,0 +1,38 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(sf org list:*)",
+      "Bash(sf data query:*)",
+      "Bash(sf project retrieve:*)",
+      "Bash(git status:*)",
+      "Bash(git diff:*)",
+      "mcp__salesforce__get_username",
+      "mcp__salesforce__list_all_orgs",
+      "mcp__salesforce__run_soql_query",
+      "mcp__salesforce__retrieve_metadata",
+      "mcp__salesforce__run_apex_test"
+    ],
+    "ask": [
+      "Bash(sf org display:*)",
+      "Bash(sf project deploy:*)",
+      "Bash(sf data import:*)",
+      "Bash(sf data create:*)",
+      "Bash(sf data update:*)",
+      "Bash(sf data upsert:*)",
+      "Bash(sf apex run:*)",
+      "Bash(git push:*)",
+      "mcp__salesforce__deploy_metadata",
+      "mcp__salesforce__assign_permission_set"
+    ],
+    "deny": [
+      "Bash(sf org display --verbose:*)",
+      "Bash(sf org delete:*)",
+      "Bash(sf data delete:*)",
+      "Bash(sf org logout:*)",
+      "Read(~/.sfdx/**)",
+      "Read(~/.sf/**)",
+      "Read(./.env)",
+      "Read(./.env.*)"
+    ]
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "mcpServers": {
+    "salesforce": {
+      "command": "cmd",
+      "args": [
+        "/c",
+        "npx",
+        "-y",
+        "@salesforce/mcp",
+        "--orgs",
+        "apple-cpq",
+        "--toolsets",
+        "orgs,metadata,data,users,testing"
+      ]
+    }
+  }
+}
