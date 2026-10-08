@@ -1,0 +1,473 @@
+{
+  "allOrNone": true,
+  "records": [
+    {
+      "attributes": {
+        "type": "PricebookEntry"
+      },
+      "AGTM_External_Id__c": "STD-IPH18P",
+      "Product2": {
+        "AGTM_External_Id__c": "IPH18P"
+      },
+      "UnitPrice": 1199,
+      "IsActive": true,
+      "UseStandardPrice": false
+    },
+    {
+      "attributes": {
+        "type": "PricebookEntry"
+      },
+      "AGTM_External_Id__c": "STD-IPH18PM",
+      "Product2": {
+        "AGTM_External_Id__c": "IPH18PM"
+      },
+      "UnitPrice": 1299,
+      "IsActive": true,
+      "UseStandardPrice": false
+    },
+    {
+      "attributes": {
+        "type": "PricebookEntry"
+      },
+      "AGTM_External_Id__c": "STD-IPH17",
+      "Product2": {
+        "AGTM_External_Id__c": "IPH17"
+      },
+      "UnitPrice": 799,
+      "IsActive": true,
+      "UseStandardPrice": false
+    },
+    {
+      "attributes": {
+        "type": "PricebookEntry"
+      },
+      "AGTM_External_Id__c": "STD-IPHDUO",
+      "Product2": {
+        "AGTM_External_Id__c": "IPHDUO"
+      },
+      "UnitPrice": 1999,
+      "IsActive": true,
+      "UseStandardPrice": false
+    },
+    {
+      "attributes": {
+        "type": "PricebookEntry"
+      },
+      "AGTM_External_Id__c": "STD-AW12",
+      "Product2": {
+        "AGTM_External_Id__c": "AW12"
+      },
+      "UnitPrice": 399,
+      "IsActive": true,
+      "UseStandardPrice": false
+    },
+    {
+      "attributes": {
+        "type": "PricebookEntry"
+      },
+      "AGTM_External_Id__c": "STD-AWU4",
+      "Product2": {
+        "AGTM_External_Id__c": "AWU4"
+      },
+      "UnitPrice": 799,
+      "IsActive": true,
+      "UseStandardPrice": false
+    },
+    {
+      "attributes": {
+        "type": "PricebookEntry"
+      },
+      "AGTM_External_Id__c": "STD-MBA13",
+      "Product2": {
+        "AGTM_External_Id__c": "MBA13"
+      },
+      "UnitPrice": 1099,
+      "IsActive": true,
+      "UseStandardPrice": false
+    },
+    {
+      "attributes": {
+        "type": "PricebookEntry"
+      },
+      "AGTM_External_Id__c": "STD-MBA15",
+      "Product2": {
+        "AGTM_External_Id__c": "MBA15"
+      },
+      "UnitPrice": 1299,
+      "IsActive": true,
+      "UseStandardPrice": false
+    },
+    {
+      "attributes": {
+        "type": "PricebookEntry"
+      },
+      "AGTM_External_Id__c": "STD-MBP14-M5",
+      "Product2": {
+        "AGTM_External_Id__c": "MBP14-M5"
+      },
+      "UnitPrice": 1999,
+      "IsActive": true,
+      "UseStandardPrice": false
+    },
+    {
+      "attributes": {
+        "type": "PricebookEntry"
+      },
+      "AGTM_External_Id__c": "STD-MBP14-M5PRO",
+      "Product2": {
+        "AGTM_External_Id__c": "MBP14-M5PRO"
+      },
+      "UnitPrice": 2499,
+      "IsActive": true,
+      "UseStandardPrice": false
+    },
+    {
+      "attributes": {
+        "type": "PricebookEntry"
+      },
+      "AGTM_External_Id__c": "STD-MBP14-M5MAX",
+      "Product2": {
+        "AGTM_External_Id__c": "MBP14-M5MAX"
+      },
+      "UnitPrice": 4099,
+      "IsActive": true,
+      "UseStandardPrice": false
+    },
+    {
+      "attributes": {
+        "type": "PricebookEntry"
+      },
+      "AGTM_External_Id__c": "STD-MBP16-M5PRO",
+      "Product2": {
+        "AGTM_External_Id__c": "MBP16-M5PRO"
+      },
+      "UnitPrice": 2999,
+      "IsActive": true,
+      "UseStandardPrice": false
+    },
+    {
+      "attributes": {
+        "type": "PricebookEntry"
+      },
+      "AGTM_External_Id__c": "STD-MBP16-M5MAX",
+      "Product2": {
+        "AGTM_External_Id__c": "MBP16-M5MAX"
+      },
+      "UnitPrice": 4399,
+      "IsActive": true,
+      "UseStandardPrice": false
+    },
+    {
+      "attributes": {
+        "type": "PricebookEntry"
+      },
+      "AGTM_External_Id__c": "STD-SVC-APPLECARE",
+      "Product2": {
+        "AGTM_External_Id__c": "SVC-APPLECARE"
+      },
+      "UnitPrice": 149,
+      "IsActive": true,
+      "UseStandardPrice": false
+    },
+    {
+      "attributes": {
+        "type": "PricebookEntry"
+      },
+      "AGTM_External_Id__c": "STD-SVC-MDM",
+      "Product2": {
+        "AGTM_External_Id__c": "SVC-MDM"
+      },
+      "UnitPrice": 96,
+      "IsActive": true,
+      "UseStandardPrice": false
+    },
+    {
+      "attributes": {
+        "type": "PricebookEntry"
+      },
+      "AGTM_External_Id__c": "STD-SVC-CELL-ACT",
+      "Product2": {
+        "AGTM_External_Id__c": "SVC-CELL-ACT"
+      },
+      "UnitPrice": 25,
+      "IsActive": true,
+      "UseStandardPrice": false
+    },
+    {
+      "attributes": {
+        "type": "PricebookEntry"
+      },
+      "AGTM_External_Id__c": "STD-ACC-IP18P-TECHWOVEN",
+      "Product2": {
+        "AGTM_External_Id__c": "ACC-IP18P-TECHWOVEN"
+      },
+      "UnitPrice": 59,
+      "IsActive": true,
+      "UseStandardPrice": false
+    },
+    {
+      "attributes": {
+        "type": "PricebookEntry"
+      },
+      "AGTM_External_Id__c": "STD-ACC-IP18PM-TECHWOVEN",
+      "Product2": {
+        "AGTM_External_Id__c": "ACC-IP18PM-TECHWOVEN"
+      },
+      "UnitPrice": 59,
+      "IsActive": true,
+      "UseStandardPrice": false
+    },
+    {
+      "attributes": {
+        "type": "PricebookEntry"
+      },
+      "AGTM_External_Id__c": "STD-ACC-IP18P-SILICONE",
+      "Product2": {
+        "AGTM_External_Id__c": "ACC-IP18P-SILICONE"
+      },
+      "UnitPrice": 49,
+      "IsActive": true,
+      "UseStandardPrice": false
+    },
+    {
+      "attributes": {
+        "type": "PricebookEntry"
+      },
+      "AGTM_External_Id__c": "STD-ACC-IP18PM-SILICONE",
+      "Product2": {
+        "AGTM_External_Id__c": "ACC-IP18PM-SILICONE"
+      },
+      "UnitPrice": 49,
+      "IsActive": true,
+      "UseStandardPrice": false
+    },
+    {
+      "attributes": {
+        "type": "PricebookEntry"
+      },
+      "AGTM_External_Id__c": "STD-ACC-IP18P-CLEAR",
+      "Product2": {
+        "AGTM_External_Id__c": "ACC-IP18P-CLEAR"
+      },
+      "UnitPrice": 49,
+      "IsActive": true,
+      "UseStandardPrice": false
+    },
+    {
+      "attributes": {
+        "type": "PricebookEntry"
+      },
+      "AGTM_External_Id__c": "STD-ACC-IP18PM-CLEAR",
+      "Product2": {
+        "AGTM_External_Id__c": "ACC-IP18PM-CLEAR"
+      },
+      "UnitPrice": 49,
+      "IsActive": true,
+      "UseStandardPrice": false
+    },
+    {
+      "attributes": {
+        "type": "PricebookEntry"
+      },
+      "AGTM_External_Id__c": "STD-ACC-DUO-CASE",
+      "Product2": {
+        "AGTM_External_Id__c": "ACC-DUO-CASE"
+      },
+      "UnitPrice": 79,
+      "IsActive": true,
+      "UseStandardPrice": false
+    },
+    {
+      "attributes": {
+        "type": "PricebookEntry"
+      },
+      "AGTM_External_Id__c": "STD-ACC-DUO-FOLIO",
+      "Product2": {
+        "AGTM_External_Id__c": "ACC-DUO-FOLIO"
+      },
+      "UnitPrice": 129,
+      "IsActive": true,
+      "UseStandardPrice": false
+    },
+    {
+      "attributes": {
+        "type": "PricebookEntry"
+      },
+      "AGTM_External_Id__c": "STD-ACC-FINEWOVEN-WALLET",
+      "Product2": {
+        "AGTM_External_Id__c": "ACC-FINEWOVEN-WALLET"
+      },
+      "UnitPrice": 59,
+      "IsActive": true,
+      "UseStandardPrice": false
+    },
+    {
+      "attributes": {
+        "type": "PricebookEntry"
+      },
+      "AGTM_External_Id__c": "STD-ACC-WRIST-STRAP",
+      "Product2": {
+        "AGTM_External_Id__c": "ACC-WRIST-STRAP"
+      },
+      "UnitPrice": 29,
+      "IsActive": true,
+      "UseStandardPrice": false
+    },
+    {
+      "attributes": {
+        "type": "PricebookEntry"
+      },
+      "AGTM_External_Id__c": "STD-ACC-CROSSBODY-STRAP",
+      "Product2": {
+        "AGTM_External_Id__c": "ACC-CROSSBODY-STRAP"
+      },
+      "UnitPrice": 59,
+      "IsActive": true,
+      "UseStandardPrice": false
+    },
+    {
+      "attributes": {
+        "type": "PricebookEntry"
+      },
+      "AGTM_External_Id__c": "STD-ACC-MAGSAFE-CHARGER",
+      "Product2": {
+        "AGTM_External_Id__c": "ACC-MAGSAFE-CHARGER"
+      },
+      "UnitPrice": 39,
+      "IsActive": true,
+      "UseStandardPrice": false
+    },
+    {
+      "attributes": {
+        "type": "PricebookEntry"
+      },
+      "AGTM_External_Id__c": "STD-ACC-PWR-20W",
+      "Product2": {
+        "AGTM_External_Id__c": "ACC-PWR-20W"
+      },
+      "UnitPrice": 19,
+      "IsActive": true,
+      "UseStandardPrice": false
+    },
+    {
+      "attributes": {
+        "type": "PricebookEntry"
+      },
+      "AGTM_External_Id__c": "STD-ACC-PWR-DYNAMIC-40W",
+      "Product2": {
+        "AGTM_External_Id__c": "ACC-PWR-DYNAMIC-40W"
+      },
+      "UnitPrice": 39,
+      "IsActive": true,
+      "UseStandardPrice": false
+    },
+    {
+      "attributes": {
+        "type": "PricebookEntry"
+      },
+      "AGTM_External_Id__c": "STD-ACC-USBC-CABLE",
+      "Product2": {
+        "AGTM_External_Id__c": "ACC-USBC-CABLE"
+      },
+      "UnitPrice": 19,
+      "IsActive": true,
+      "UseStandardPrice": false
+    },
+    {
+      "attributes": {
+        "type": "PricebookEntry"
+      },
+      "AGTM_External_Id__c": "STD-ACC-IPAIR-MAGSAFE-BATTERY",
+      "Product2": {
+        "AGTM_External_Id__c": "ACC-IPAIR-MAGSAFE-BATTERY"
+      },
+      "UnitPrice": 99,
+      "IsActive": true,
+      "UseStandardPrice": false
+    },
+    {
+      "attributes": {
+        "type": "PricebookEntry"
+      },
+      "AGTM_External_Id__c": "STD-ACC-USBC-AV-ADAPTER",
+      "Product2": {
+        "AGTM_External_Id__c": "ACC-USBC-AV-ADAPTER"
+      },
+      "UnitPrice": 69,
+      "IsActive": true,
+      "UseStandardPrice": false
+    },
+    {
+      "attributes": {
+        "type": "PricebookEntry"
+      },
+      "AGTM_External_Id__c": "STD-ACC-USBC-SD-READER",
+      "Product2": {
+        "AGTM_External_Id__c": "ACC-USBC-SD-READER"
+      },
+      "UnitPrice": 39,
+      "IsActive": true,
+      "UseStandardPrice": false
+    },
+    {
+      "attributes": {
+        "type": "PricebookEntry"
+      },
+      "AGTM_External_Id__c": "STD-ACC-AIRTAG",
+      "Product2": {
+        "AGTM_External_Id__c": "ACC-AIRTAG"
+      },
+      "UnitPrice": 29,
+      "IsActive": true,
+      "UseStandardPrice": false
+    },
+    {
+      "attributes": {
+        "type": "PricebookEntry"
+      },
+      "AGTM_External_Id__c": "STD-ACC-AIRTAG-KEYRING",
+      "Product2": {
+        "AGTM_External_Id__c": "ACC-AIRTAG-KEYRING"
+      },
+      "UnitPrice": 35,
+      "IsActive": true,
+      "UseStandardPrice": false
+    },
+    {
+      "attributes": {
+        "type": "PricebookEntry"
+      },
+      "AGTM_External_Id__c": "STD-BND-STD",
+      "Product2": {
+        "AGTM_External_Id__c": "BND-STD"
+      },
+      "UnitPrice": 0,
+      "IsActive": true,
+      "UseStandardPrice": false
+    },
+    {
+      "attributes": {
+        "type": "PricebookEntry"
+      },
+      "AGTM_External_Id__c": "STD-BND-FRONTLINE",
+      "Product2": {
+        "AGTM_External_Id__c": "BND-FRONTLINE"
+      },
+      "UnitPrice": 0,
+      "IsActive": true,
+      "UseStandardPrice": false
+    },
+    {
+      "attributes": {
+        "type": "PricebookEntry"
+      },
+      "AGTM_External_Id__c": "STD-BND-EXEC",
+      "Product2": {
+        "AGTM_External_Id__c": "BND-EXEC"
+      },
+      "UnitPrice": 0,
+      "IsActive": true,
+      "UseStandardPrice": false
+    }
+  ]
+}

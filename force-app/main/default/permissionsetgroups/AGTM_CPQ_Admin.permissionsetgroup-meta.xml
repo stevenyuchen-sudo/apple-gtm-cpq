@@ -6,4 +6,5 @@
     <label>AGTM CPQ Admin</label>
     <permissionSets>SBQQ__SteelBrickCPQAdmin</permissionSets>
     <permissionSets>AGTM_Quoting_Base</permissionSets>
+    <permissionSets>AGTM_Catalog_Admin</permissionSets>
 </PermissionSetGroup>
