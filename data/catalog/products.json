@@ -1,0 +1,707 @@
+{
+  "allOrNone": true,
+  "records": [
+    {
+      "attributes": {
+        "type": "Product2"
+      },
+      "AGTM_External_Id__c": "IPH18P",
+      "ProductCode": "IPH18P",
+      "Name": "iPhone 18 Pro",
+      "Family": "iPhone",
+      "Description": "Base product; storage and color are configuration attributes",
+      "IsActive": true,
+      "SBQQ__ChargeType__c": "One-Time",
+      "SBQQ__BillingType__c": null,
+      "SBQQ__SubscriptionPricing__c": null,
+      "SBQQ__SubscriptionTerm__c": null,
+      "SBQQ__SubscriptionType__c": null,
+      "SBQQ__ConfigurationType__c": null,
+      "SBQQ__ConfigurationEvent__c": null
+    },
+    {
+      "attributes": {
+        "type": "Product2"
+      },
+      "AGTM_External_Id__c": "IPH18PM",
+      "ProductCode": "IPH18PM",
+      "Name": "iPhone 18 Pro Max",
+      "Family": "iPhone",
+      "Description": "Base product; storage and color are configuration attributes",
+      "IsActive": true,
+      "SBQQ__ChargeType__c": "One-Time",
+      "SBQQ__BillingType__c": null,
+      "SBQQ__SubscriptionPricing__c": null,
+      "SBQQ__SubscriptionTerm__c": null,
+      "SBQQ__SubscriptionType__c": null,
+      "SBQQ__ConfigurationType__c": null,
+      "SBQQ__ConfigurationEvent__c": null
+    },
+    {
+      "attributes": {
+        "type": "Product2"
+      },
+      "AGTM_External_Id__c": "IPH17",
+      "ProductCode": "IPH17",
+      "Name": "iPhone 17",
+      "Family": "iPhone",
+      "Description": "Base product; storage and color are configuration attributes",
+      "IsActive": true,
+      "SBQQ__ChargeType__c": "One-Time",
+      "SBQQ__BillingType__c": null,
+      "SBQQ__SubscriptionPricing__c": null,
+      "SBQQ__SubscriptionTerm__c": null,
+      "SBQQ__SubscriptionType__c": null,
+      "SBQQ__ConfigurationType__c": null,
+      "SBQQ__ConfigurationEvent__c": null
+    },
+    {
+      "attributes": {
+        "type": "Product2"
+      },
+      "AGTM_External_Id__c": "IPHDUO",
+      "ProductCode": "IPHDUO",
+      "Name": "iPhone Duo",
+      "Family": "iPhone",
+      "Description": "Foldable iPhone with 7.6-inch inner and 5.4-inch outer displays, eSIM only; storage (256GB, 512GB, 1TB, 2TB) and color (Night Sky, Star White) are configuration attributes",
+      "IsActive": true,
+      "SBQQ__ChargeType__c": "One-Time",
+      "SBQQ__BillingType__c": null,
+      "SBQQ__SubscriptionPricing__c": null,
+      "SBQQ__SubscriptionTerm__c": null,
+      "SBQQ__SubscriptionType__c": null,
+      "SBQQ__ConfigurationType__c": null,
+      "SBQQ__ConfigurationEvent__c": null
+    },
+    {
+      "attributes": {
+        "type": "Product2"
+      },
+      "AGTM_External_Id__c": "AW12",
+      "ProductCode": "AW12",
+      "Name": "Apple Watch Series 12",
+      "Family": "Apple Watch",
+      "Description": "Base product; case size, material and connectivity are configuration attributes",
+      "IsActive": true,
+      "SBQQ__ChargeType__c": "One-Time",
+      "SBQQ__BillingType__c": null,
+      "SBQQ__SubscriptionPricing__c": null,
+      "SBQQ__SubscriptionTerm__c": null,
+      "SBQQ__SubscriptionType__c": null,
+      "SBQQ__ConfigurationType__c": null,
+      "SBQQ__ConfigurationEvent__c": null
+    },
+    {
+      "attributes": {
+        "type": "Product2"
+      },
+      "AGTM_External_Id__c": "AWU4",
+      "ProductCode": "AWU4",
+      "Name": "Apple Watch Ultra 4",
+      "Family": "Apple Watch",
+      "Description": "Base product; color is a configuration attribute",
+      "IsActive": true,
+      "SBQQ__ChargeType__c": "One-Time",
+      "SBQQ__BillingType__c": null,
+      "SBQQ__SubscriptionPricing__c": null,
+      "SBQQ__SubscriptionTerm__c": null,
+      "SBQQ__SubscriptionType__c": null,
+      "SBQQ__ConfigurationType__c": null,
+      "SBQQ__ConfigurationEvent__c": null
+    },
+    {
+      "attributes": {
+        "type": "Product2"
+      },
+      "AGTM_External_Id__c": "MBA13",
+      "ProductCode": "MBA13",
+      "Name": "MacBook Air 13-inch (M5)",
+      "Family": "Mac",
+      "Description": "Base product; memory, storage and color are configuration attributes",
+      "IsActive": true,
+      "SBQQ__ChargeType__c": "One-Time",
+      "SBQQ__BillingType__c": null,
+      "SBQQ__SubscriptionPricing__c": null,
+      "SBQQ__SubscriptionTerm__c": null,
+      "SBQQ__SubscriptionType__c": null,
+      "SBQQ__ConfigurationType__c": null,
+      "SBQQ__ConfigurationEvent__c": null
+    },
+    {
+      "attributes": {
+        "type": "Product2"
+      },
+      "AGTM_External_Id__c": "MBA15",
+      "ProductCode": "MBA15",
+      "Name": "MacBook Air 15-inch (M5)",
+      "Family": "Mac",
+      "Description": "Base product; memory, storage and color are configuration attributes",
+      "IsActive": true,
+      "SBQQ__ChargeType__c": "One-Time",
+      "SBQQ__BillingType__c": null,
+      "SBQQ__SubscriptionPricing__c": null,
+      "SBQQ__SubscriptionTerm__c": null,
+      "SBQQ__SubscriptionType__c": null,
+      "SBQQ__ConfigurationType__c": null,
+      "SBQQ__ConfigurationEvent__c": null
+    },
+    {
+      "attributes": {
+        "type": "Product2"
+      },
+      "AGTM_External_Id__c": "MBP14-M5",
+      "ProductCode": "MBP14-M5",
+      "Name": "MacBook Pro 14-inch (M5)",
+      "Family": "Mac",
+      "Description": "Base model 10-core CPU, 10-core GPU, 16GB, 1TB; memory (to 32GB), storage (to 4TB), color and nano-texture display are configuration attributes",
+      "IsActive": true,
+      "SBQQ__ChargeType__c": "One-Time",
+      "SBQQ__BillingType__c": null,
+      "SBQQ__SubscriptionPricing__c": null,
+      "SBQQ__SubscriptionTerm__c": null,
+      "SBQQ__SubscriptionType__c": null,
+      "SBQQ__ConfigurationType__c": null,
+      "SBQQ__ConfigurationEvent__c": null
+    },
+    {
+      "attributes": {
+        "type": "Product2"
+      },
+      "AGTM_External_Id__c": "MBP14-M5PRO",
+      "ProductCode": "MBP14-M5PRO",
+      "Name": "MacBook Pro 14-inch (M5 Pro)",
+      "Family": "Mac",
+      "Description": "Base model 15-core CPU, 16-core GPU, 24GB, 1TB; CPU/GPU variant, memory (to 64GB), storage (to 4TB), color and nano-texture display are configuration attributes",
+      "IsActive": true,
+      "SBQQ__ChargeType__c": "One-Time",
+      "SBQQ__BillingType__c": null,
+      "SBQQ__SubscriptionPricing__c": null,
+      "SBQQ__SubscriptionTerm__c": null,
+      "SBQQ__SubscriptionType__c": null,
+      "SBQQ__ConfigurationType__c": null,
+      "SBQQ__ConfigurationEvent__c": null
+    },
+    {
+      "attributes": {
+        "type": "Product2"
+      },
+      "AGTM_External_Id__c": "MBP14-M5MAX",
+      "ProductCode": "MBP14-M5MAX",
+      "Name": "MacBook Pro 14-inch (M5 Max)",
+      "Family": "Mac",
+      "Description": "Base model 18-core CPU, 32-core GPU, 36GB, 2TB; GPU variant, memory (to 128GB), storage (to 8TB), color and nano-texture display are configuration attributes",
+      "IsActive": true,
+      "SBQQ__ChargeType__c": "One-Time",
+      "SBQQ__BillingType__c": null,
+      "SBQQ__SubscriptionPricing__c": null,
+      "SBQQ__SubscriptionTerm__c": null,
+      "SBQQ__SubscriptionType__c": null,
+      "SBQQ__ConfigurationType__c": null,
+      "SBQQ__ConfigurationEvent__c": null
+    },
+    {
+      "attributes": {
+        "type": "Product2"
+      },
+      "AGTM_External_Id__c": "MBP16-M5PRO",
+      "ProductCode": "MBP16-M5PRO",
+      "Name": "MacBook Pro 16-inch (M5 Pro)",
+      "Family": "Mac",
+      "Description": "Base model 18-core CPU, 20-core GPU, 24GB, 2TB; memory (to 64GB), storage (to 4TB), color and nano-texture display are configuration attributes",
+      "IsActive": true,
+      "SBQQ__ChargeType__c": "One-Time",
+      "SBQQ__BillingType__c": null,
+      "SBQQ__SubscriptionPricing__c": null,
+      "SBQQ__SubscriptionTerm__c": null,
+      "SBQQ__SubscriptionType__c": null,
+      "SBQQ__ConfigurationType__c": null,
+      "SBQQ__ConfigurationEvent__c": null
+    },
+    {
+      "attributes": {
+        "type": "Product2"
+      },
+      "AGTM_External_Id__c": "MBP16-M5MAX",
+      "ProductCode": "MBP16-M5MAX",
+      "Name": "MacBook Pro 16-inch (M5 Max)",
+      "Family": "Mac",
+      "Description": "Base model 18-core CPU, 32-core GPU, 36GB, 2TB; GPU variant, memory (to 128GB), storage (to 8TB), color and nano-texture display are configuration attributes",
+      "IsActive": true,
+      "SBQQ__ChargeType__c": "One-Time",
+      "SBQQ__BillingType__c": null,
+      "SBQQ__SubscriptionPricing__c": null,
+      "SBQQ__SubscriptionTerm__c": null,
+      "SBQQ__SubscriptionType__c": null,
+      "SBQQ__ConfigurationType__c": null,
+      "SBQQ__ConfigurationEvent__c": null
+    },
+    {
+      "attributes": {
+        "type": "Product2"
+      },
+      "AGTM_External_Id__c": "SVC-APPLECARE",
+      "ProductCode": "SVC-APPLECARE",
+      "Name": "AppleCare for Enterprise",
+      "Family": "Services",
+      "Description": "Per-device support and repair coverage, annual",
+      "IsActive": true,
+      "SBQQ__ChargeType__c": "Recurring",
+      "SBQQ__BillingType__c": "Advance",
+      "SBQQ__SubscriptionPricing__c": "Fixed Price",
+      "SBQQ__SubscriptionTerm__c": 12,
+      "SBQQ__SubscriptionType__c": "Renewable",
+      "SBQQ__ConfigurationType__c": null,
+      "SBQQ__ConfigurationEvent__c": null
+    },
+    {
+      "attributes": {
+        "type": "Product2"
+      },
+      "AGTM_External_Id__c": "SVC-MDM",
+      "ProductCode": "SVC-MDM",
+      "Name": "Device Management",
+      "Family": "Services",
+      "Description": "Per-device management subscription, annual",
+      "IsActive": true,
+      "SBQQ__ChargeType__c": "Recurring",
+      "SBQQ__BillingType__c": "Advance",
+      "SBQQ__SubscriptionPricing__c": "Fixed Price",
+      "SBQQ__SubscriptionTerm__c": 12,
+      "SBQQ__SubscriptionType__c": "Renewable",
+      "SBQQ__ConfigurationType__c": null,
+      "SBQQ__ConfigurationEvent__c": null
+    },
+    {
+      "attributes": {
+        "type": "Product2"
+      },
+      "AGTM_External_Id__c": "SVC-CELL-ACT",
+      "ProductCode": "SVC-CELL-ACT",
+      "Name": "Cellular Activation",
+      "Family": "Services",
+      "Description": "One-time activation for cellular Apple Watch; added by a selection rule",
+      "IsActive": true,
+      "SBQQ__ChargeType__c": "One-Time",
+      "SBQQ__BillingType__c": null,
+      "SBQQ__SubscriptionPricing__c": null,
+      "SBQQ__SubscriptionTerm__c": null,
+      "SBQQ__SubscriptionType__c": null,
+      "SBQQ__ConfigurationType__c": null,
+      "SBQQ__ConfigurationEvent__c": null
+    },
+    {
+      "attributes": {
+        "type": "Product2"
+      },
+      "AGTM_External_Id__c": "ACC-IP18P-TECHWOVEN",
+      "ProductCode": "ACC-IP18P-TECHWOVEN",
+      "Name": "iPhone 18 Pro TechWoven Case with MagSafe",
+      "Family": "Accessories",
+      "Description": "Apple TechWoven case for iPhone 18 Pro; color is a configuration attribute",
+      "IsActive": true,
+      "SBQQ__ChargeType__c": "One-Time",
+      "SBQQ__BillingType__c": null,
+      "SBQQ__SubscriptionPricing__c": null,
+      "SBQQ__SubscriptionTerm__c": null,
+      "SBQQ__SubscriptionType__c": null,
+      "SBQQ__ConfigurationType__c": null,
+      "SBQQ__ConfigurationEvent__c": null
+    },
+    {
+      "attributes": {
+        "type": "Product2"
+      },
+      "AGTM_External_Id__c": "ACC-IP18PM-TECHWOVEN",
+      "ProductCode": "ACC-IP18PM-TECHWOVEN",
+      "Name": "iPhone 18 Pro Max TechWoven Case with MagSafe",
+      "Family": "Accessories",
+      "Description": "Apple TechWoven case for iPhone 18 Pro Max; color is a configuration attribute",
+      "IsActive": true,
+      "SBQQ__ChargeType__c": "One-Time",
+      "SBQQ__BillingType__c": null,
+      "SBQQ__SubscriptionPricing__c": null,
+      "SBQQ__SubscriptionTerm__c": null,
+      "SBQQ__SubscriptionType__c": null,
+      "SBQQ__ConfigurationType__c": null,
+      "SBQQ__ConfigurationEvent__c": null
+    },
+    {
+      "attributes": {
+        "type": "Product2"
+      },
+      "AGTM_External_Id__c": "ACC-IP18P-SILICONE",
+      "ProductCode": "ACC-IP18P-SILICONE",
+      "Name": "iPhone 18 Pro Silicone Case with MagSafe",
+      "Family": "Accessories",
+      "Description": "Apple silicone case for iPhone 18 Pro; color is a configuration attribute",
+      "IsActive": true,
+      "SBQQ__ChargeType__c": "One-Time",
+      "SBQQ__BillingType__c": null,
+      "SBQQ__SubscriptionPricing__c": null,
+      "SBQQ__SubscriptionTerm__c": null,
+      "SBQQ__SubscriptionType__c": null,
+      "SBQQ__ConfigurationType__c": null,
+      "SBQQ__ConfigurationEvent__c": null
+    },
+    {
+      "attributes": {
+        "type": "Product2"
+      },
+      "AGTM_External_Id__c": "ACC-IP18PM-SILICONE",
+      "ProductCode": "ACC-IP18PM-SILICONE",
+      "Name": "iPhone 18 Pro Max Silicone Case with MagSafe",
+      "Family": "Accessories",
+      "Description": "Apple silicone case for iPhone 18 Pro Max; color is a configuration attribute",
+      "IsActive": true,
+      "SBQQ__ChargeType__c": "One-Time",
+      "SBQQ__BillingType__c": null,
+      "SBQQ__SubscriptionPricing__c": null,
+      "SBQQ__SubscriptionTerm__c": null,
+      "SBQQ__SubscriptionType__c": null,
+      "SBQQ__ConfigurationType__c": null,
+      "SBQQ__ConfigurationEvent__c": null
+    },
+    {
+      "attributes": {
+        "type": "Product2"
+      },
+      "AGTM_External_Id__c": "ACC-IP18P-CLEAR",
+      "ProductCode": "ACC-IP18P-CLEAR",
+      "Name": "iPhone 18 Pro Clear Case with MagSafe",
+      "Family": "Accessories",
+      "Description": "Apple clear polycarbonate case for iPhone 18 Pro",
+      "IsActive": true,
+      "SBQQ__ChargeType__c": "One-Time",
+      "SBQQ__BillingType__c": null,
+      "SBQQ__SubscriptionPricing__c": null,
+      "SBQQ__SubscriptionTerm__c": null,
+      "SBQQ__SubscriptionType__c": null,
+      "SBQQ__ConfigurationType__c": null,
+      "SBQQ__ConfigurationEvent__c": null
+    },
+    {
+      "attributes": {
+        "type": "Product2"
+      },
+      "AGTM_External_Id__c": "ACC-IP18PM-CLEAR",
+      "ProductCode": "ACC-IP18PM-CLEAR",
+      "Name": "iPhone 18 Pro Max Clear Case with MagSafe",
+      "Family": "Accessories",
+      "Description": "Apple clear polycarbonate case for iPhone 18 Pro Max",
+      "IsActive": true,
+      "SBQQ__ChargeType__c": "One-Time",
+      "SBQQ__BillingType__c": null,
+      "SBQQ__SubscriptionPricing__c": null,
+      "SBQQ__SubscriptionTerm__c": null,
+      "SBQQ__SubscriptionType__c": null,
+      "SBQQ__ConfigurationType__c": null,
+      "SBQQ__ConfigurationEvent__c": null
+    },
+    {
+      "attributes": {
+        "type": "Product2"
+      },
+      "AGTM_External_Id__c": "ACC-DUO-CASE",
+      "ProductCode": "ACC-DUO-CASE",
+      "Name": "iPhone Duo Case",
+      "Family": "Accessories",
+      "Description": "Apple case for iPhone Duo; color is a configuration attribute",
+      "IsActive": true,
+      "SBQQ__ChargeType__c": "One-Time",
+      "SBQQ__BillingType__c": null,
+      "SBQQ__SubscriptionPricing__c": null,
+      "SBQQ__SubscriptionTerm__c": null,
+      "SBQQ__SubscriptionType__c": null,
+      "SBQQ__ConfigurationType__c": null,
+      "SBQQ__ConfigurationEvent__c": null
+    },
+    {
+      "attributes": {
+        "type": "Product2"
+      },
+      "AGTM_External_Id__c": "ACC-DUO-FOLIO",
+      "ProductCode": "ACC-DUO-FOLIO",
+      "Name": "iPhone Duo Folio with Kickstand",
+      "Family": "Accessories",
+      "Description": "Apple folio with kickstand for iPhone Duo; color is a configuration attribute",
+      "IsActive": true,
+      "SBQQ__ChargeType__c": "One-Time",
+      "SBQQ__BillingType__c": null,
+      "SBQQ__SubscriptionPricing__c": null,
+      "SBQQ__SubscriptionTerm__c": null,
+      "SBQQ__SubscriptionType__c": null,
+      "SBQQ__ConfigurationType__c": null,
+      "SBQQ__ConfigurationEvent__c": null
+    },
+    {
+      "attributes": {
+        "type": "Product2"
+      },
+      "AGTM_External_Id__c": "ACC-FINEWOVEN-WALLET",
+      "ProductCode": "ACC-FINEWOVEN-WALLET",
+      "Name": "iPhone FineWoven Wallet with MagSafe",
+      "Family": "Accessories",
+      "Description": "Apple MagSafe card wallet for any MagSafe iPhone; color is a configuration attribute",
+      "IsActive": true,
+      "SBQQ__ChargeType__c": "One-Time",
+      "SBQQ__BillingType__c": null,
+      "SBQQ__SubscriptionPricing__c": null,
+      "SBQQ__SubscriptionTerm__c": null,
+      "SBQQ__SubscriptionType__c": null,
+      "SBQQ__ConfigurationType__c": null,
+      "SBQQ__ConfigurationEvent__c": null
+    },
+    {
+      "attributes": {
+        "type": "Product2"
+      },
+      "AGTM_External_Id__c": "ACC-WRIST-STRAP",
+      "ProductCode": "ACC-WRIST-STRAP",
+      "Name": "Wrist Strap",
+      "Family": "Accessories",
+      "Description": "Apple wrist strap for Apple iPhone 18 Pro and Duo cases; color is a configuration attribute",
+      "IsActive": true,
+      "SBQQ__ChargeType__c": "One-Time",
+      "SBQQ__BillingType__c": null,
+      "SBQQ__SubscriptionPricing__c": null,
+      "SBQQ__SubscriptionTerm__c": null,
+      "SBQQ__SubscriptionType__c": null,
+      "SBQQ__ConfigurationType__c": null,
+      "SBQQ__ConfigurationEvent__c": null
+    },
+    {
+      "attributes": {
+        "type": "Product2"
+      },
+      "AGTM_External_Id__c": "ACC-CROSSBODY-STRAP",
+      "ProductCode": "ACC-CROSSBODY-STRAP",
+      "Name": "Crossbody Strap",
+      "Family": "Accessories",
+      "Description": "Apple hands-free crossbody strap for Apple TechWoven, Silicone and Clear cases; color is a configuration attribute",
+      "IsActive": true,
+      "SBQQ__ChargeType__c": "One-Time",
+      "SBQQ__BillingType__c": null,
+      "SBQQ__SubscriptionPricing__c": null,
+      "SBQQ__SubscriptionTerm__c": null,
+      "SBQQ__SubscriptionType__c": null,
+      "SBQQ__ConfigurationType__c": null,
+      "SBQQ__ConfigurationEvent__c": null
+    },
+    {
+      "attributes": {
+        "type": "Product2"
+      },
+      "AGTM_External_Id__c": "ACC-MAGSAFE-CHARGER",
+      "ProductCode": "ACC-MAGSAFE-CHARGER",
+      "Name": "MagSafe Charger",
+      "Family": "Accessories",
+      "Description": "Apple 25W MagSafe wireless charger; cable length (1 m, 2 m) is a configuration attribute",
+      "IsActive": true,
+      "SBQQ__ChargeType__c": "One-Time",
+      "SBQQ__BillingType__c": null,
+      "SBQQ__SubscriptionPricing__c": null,
+      "SBQQ__SubscriptionTerm__c": null,
+      "SBQQ__SubscriptionType__c": null,
+      "SBQQ__ConfigurationType__c": null,
+      "SBQQ__ConfigurationEvent__c": null
+    },
+    {
+      "attributes": {
+        "type": "Product2"
+      },
+      "AGTM_External_Id__c": "ACC-PWR-20W",
+      "ProductCode": "ACC-PWR-20W",
+      "Name": "20W USB-C Power Adapter",
+      "Family": "Accessories",
+      "Description": "Apple 20W USB-C power adapter; iPhones ship without one",
+      "IsActive": true,
+      "SBQQ__ChargeType__c": "One-Time",
+      "SBQQ__BillingType__c": null,
+      "SBQQ__SubscriptionPricing__c": null,
+      "SBQQ__SubscriptionTerm__c": null,
+      "SBQQ__SubscriptionType__c": null,
+      "SBQQ__ConfigurationType__c": null,
+      "SBQQ__ConfigurationEvent__c": null
+    },
+    {
+      "attributes": {
+        "type": "Product2"
+      },
+      "AGTM_External_Id__c": "ACC-PWR-DYNAMIC-40W",
+      "ProductCode": "ACC-PWR-DYNAMIC-40W",
+      "Name": "40W Dynamic Power Adapter with 60W Max",
+      "Family": "Accessories",
+      "Description": "Apple USB-C adapter for the fastest iPhone 18 Pro charging (up to 60W)",
+      "IsActive": true,
+      "SBQQ__ChargeType__c": "One-Time",
+      "SBQQ__BillingType__c": null,
+      "SBQQ__SubscriptionPricing__c": null,
+      "SBQQ__SubscriptionTerm__c": null,
+      "SBQQ__SubscriptionType__c": null,
+      "SBQQ__ConfigurationType__c": null,
+      "SBQQ__ConfigurationEvent__c": null
+    },
+    {
+      "attributes": {
+        "type": "Product2"
+      },
+      "AGTM_External_Id__c": "ACC-USBC-CABLE",
+      "ProductCode": "ACC-USBC-CABLE",
+      "Name": "USB-C Charge Cable",
+      "Family": "Accessories",
+      "Description": "Apple woven USB-C charge cable; length and rating (60W 1 m, 240W 2 m) is a configuration attribute",
+      "IsActive": true,
+      "SBQQ__ChargeType__c": "One-Time",
+      "SBQQ__BillingType__c": null,
+      "SBQQ__SubscriptionPricing__c": null,
+      "SBQQ__SubscriptionTerm__c": null,
+      "SBQQ__SubscriptionType__c": null,
+      "SBQQ__ConfigurationType__c": null,
+      "SBQQ__ConfigurationEvent__c": null
+    },
+    {
+      "attributes": {
+        "type": "Product2"
+      },
+      "AGTM_External_Id__c": "ACC-IPAIR-MAGSAFE-BATTERY",
+      "ProductCode": "ACC-IPAIR-MAGSAFE-BATTERY",
+      "Name": "iPhone Air MagSafe Battery",
+      "Family": "Accessories",
+      "Description": "Apple MagSafe battery; compatible with iPhone Air only, not with other phones in this catalog",
+      "IsActive": true,
+      "SBQQ__ChargeType__c": "One-Time",
+      "SBQQ__BillingType__c": null,
+      "SBQQ__SubscriptionPricing__c": null,
+      "SBQQ__SubscriptionTerm__c": null,
+      "SBQQ__SubscriptionType__c": null,
+      "SBQQ__ConfigurationType__c": null,
+      "SBQQ__ConfigurationEvent__c": null
+    },
+    {
+      "attributes": {
+        "type": "Product2"
+      },
+      "AGTM_External_Id__c": "ACC-USBC-AV-ADAPTER",
+      "ProductCode": "ACC-USBC-AV-ADAPTER",
+      "Name": "USB-C Digital AV Multiport Adapter",
+      "Family": "Accessories",
+      "Description": "Apple USB-C adapter with HDMI, USB-A and USB-C charging",
+      "IsActive": true,
+      "SBQQ__ChargeType__c": "One-Time",
+      "SBQQ__BillingType__c": null,
+      "SBQQ__SubscriptionPricing__c": null,
+      "SBQQ__SubscriptionTerm__c": null,
+      "SBQQ__SubscriptionType__c": null,
+      "SBQQ__ConfigurationType__c": null,
+      "SBQQ__ConfigurationEvent__c": null
+    },
+    {
+      "attributes": {
+        "type": "Product2"
+      },
+      "AGTM_External_Id__c": "ACC-USBC-SD-READER",
+      "ProductCode": "ACC-USBC-SD-READER",
+      "Name": "USB-C to SD Card Reader",
+      "Family": "Accessories",
+      "Description": "Apple USB-C SD card reader",
+      "IsActive": true,
+      "SBQQ__ChargeType__c": "One-Time",
+      "SBQQ__BillingType__c": null,
+      "SBQQ__SubscriptionPricing__c": null,
+      "SBQQ__SubscriptionTerm__c": null,
+      "SBQQ__SubscriptionType__c": null,
+      "SBQQ__ConfigurationType__c": null,
+      "SBQQ__ConfigurationEvent__c": null
+    },
+    {
+      "attributes": {
+        "type": "Product2"
+      },
+      "AGTM_External_Id__c": "ACC-AIRTAG",
+      "ProductCode": "ACC-AIRTAG",
+      "Name": "AirTag",
+      "Family": "Accessories",
+      "Description": "Apple AirTag (2nd generation) item tracker, 1-pack; 4-pack is $99",
+      "IsActive": true,
+      "SBQQ__ChargeType__c": "One-Time",
+      "SBQQ__BillingType__c": null,
+      "SBQQ__SubscriptionPricing__c": null,
+      "SBQQ__SubscriptionTerm__c": null,
+      "SBQQ__SubscriptionType__c": null,
+      "SBQQ__ConfigurationType__c": null,
+      "SBQQ__ConfigurationEvent__c": null
+    },
+    {
+      "attributes": {
+        "type": "Product2"
+      },
+      "AGTM_External_Id__c": "ACC-AIRTAG-KEYRING",
+      "ProductCode": "ACC-AIRTAG-KEYRING",
+      "Name": "AirTag FineWoven Key Ring",
+      "Family": "Accessories",
+      "Description": "Apple FineWoven key ring for AirTag; color is a configuration attribute",
+      "IsActive": true,
+      "SBQQ__ChargeType__c": "One-Time",
+      "SBQQ__BillingType__c": null,
+      "SBQQ__SubscriptionPricing__c": null,
+      "SBQQ__SubscriptionTerm__c": null,
+      "SBQQ__SubscriptionType__c": null,
+      "SBQQ__ConfigurationType__c": null,
+      "SBQQ__ConfigurationEvent__c": null
+    },
+    {
+      "attributes": {
+        "type": "Product2"
+      },
+      "AGTM_External_Id__c": "BND-STD",
+      "ProductCode": "BND-STD",
+      "Name": "Standard Bundle",
+      "Family": "Bundles",
+      "Description": "iPhone 18 Pro + Apple Watch Series 12 cellular + AppleCare, for knowledge workers",
+      "IsActive": true,
+      "SBQQ__ChargeType__c": "One-Time",
+      "SBQQ__BillingType__c": null,
+      "SBQQ__SubscriptionPricing__c": null,
+      "SBQQ__SubscriptionTerm__c": null,
+      "SBQQ__SubscriptionType__c": null,
+      "SBQQ__ConfigurationType__c": "Required",
+      "SBQQ__ConfigurationEvent__c": "Always"
+    },
+    {
+      "attributes": {
+        "type": "Product2"
+      },
+      "AGTM_External_Id__c": "BND-FRONTLINE",
+      "ProductCode": "BND-FRONTLINE",
+      "Name": "Frontline Bundle",
+      "Family": "Bundles",
+      "Description": "iPhone 18 Pro Max + Apple Watch Ultra 4 + iPhone 18 Pro Max Silicone Case, for frontline workers",
+      "IsActive": true,
+      "SBQQ__ChargeType__c": "One-Time",
+      "SBQQ__BillingType__c": null,
+      "SBQQ__SubscriptionPricing__c": null,
+      "SBQQ__SubscriptionTerm__c": null,
+      "SBQQ__SubscriptionType__c": null,
+      "SBQQ__ConfigurationType__c": "Required",
+      "SBQQ__ConfigurationEvent__c": "Always"
+    },
+    {
+      "attributes": {
+        "type": "Product2"
+      },
+      "AGTM_External_Id__c": "BND-EXEC",
+      "ProductCode": "BND-EXEC",
+      "Name": "Executive Bundle",
+      "Family": "Bundles",
+      "Description": "iPhone 18 Pro 1TB + titanium Apple Watch Series 12, for executives",
+      "IsActive": true,
+      "SBQQ__ChargeType__c": "One-Time",
+      "SBQQ__BillingType__c": null,
+      "SBQQ__SubscriptionPricing__c": null,
+      "SBQQ__SubscriptionTerm__c": null,
+      "SBQQ__SubscriptionType__c": null,
+      "SBQQ__ConfigurationType__c": "Required",
+      "SBQQ__ConfigurationEvent__c": "Always"
+    }
+  ]
+}
