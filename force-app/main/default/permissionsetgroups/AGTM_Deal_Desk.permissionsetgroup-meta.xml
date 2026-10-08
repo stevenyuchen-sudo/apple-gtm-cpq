@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<PermissionSetGroup xmlns="http://soap.sforce.com/2006/04/metadata">
+    <description
+  >Reviews and approves deals: sees every rep's opportunities and quotes and builds reports. Cannot change the catalog.</description>
+    <hasActivationRequired>false</hasActivationRequired>
+    <label>AGTM Deal Desk</label>
+    <permissionSets>SBQQ__SteelBrickCPQUser</permissionSets>
+    <permissionSets>AGTM_Quoting_Base</permissionSets>
+    <permissionSets>AGTM_Deal_Desk_Extras</permissionSets>
+</PermissionSetGroup>
