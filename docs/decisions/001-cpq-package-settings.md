@@ -22,7 +22,7 @@ The demo customers below are named where a setting affects them: Northstar Healt
 | Use Legacy Calculator                 | Off                 | On (Apex legacy calculator)             |
 | Renewal Model                         | Contract Based      | Asset Based                             |
 | Subscription Prorate Precision        | Monthly + Daily     | Monthly, or Daily                       |
-| Line Editor field set                 | Trimmed to 7 fields | Package default                         |
+| Line Editor field set                 | Trimmed to 8 fields | Package default                         |
 
 ## Decisions
 
@@ -97,28 +97,29 @@ The demo customers below are named where a setting affects them: Northstar Healt
 - The Phase 4 rebuild must reproduce the same proration so that the CPQ and Revenue Cloud Advanced quotes can be compared line by line.
 - Changing the setting does not reprice quotes that were already calculated. Recalculate saved demo quotes after any change.
 
-### Line Editor field set: trimmed to 7 fields
+### Line Editor field set: trimmed to 8 fields
 
-**Choice.** The `SBQQ__LineEditor` field set on `SBQQ__QuoteLine__c` shows only:
+**Choice.** The `SBQQ__LineEditor` field set on `SBQQ__QuoteLine__c` shows only these fields, in this order:
 
 1. Product Code (`SBQQ__ProductCode__c`)
 2. Product Name (`SBQQ__ProductName__c`)
 3. Quantity (`SBQQ__Quantity__c`)
-4. List Price (`SBQQ__ListPrice__c`)
-5. Additional Discount (`SBQQ__AdditionalDiscount__c`)
-6. Net Price (`SBQQ__NetPrice__c`)
+4. List Unit Price (`SBQQ__ListPrice__c`)
+5. Additional Disc. (`SBQQ__AdditionalDiscount__c`)
+6. Net Unit Price (`SBQQ__NetPrice__c`)
 7. Net Total (`SBQQ__NetTotal__c`)
+8. Subscription Term (`SBQQ__SubscriptionTerm__c`)
 
 **Alternative.** Keep the package default, which shows more pricing and subscription columns.
 
-**Why.** The demo is about the path from list price to discount to net price. Fewer columns keep the Quote Line Editor readable on a screen share and in recordings, and leave out columns that aren't used yet, like partner and distributor discounts.
+**Why.** The demo is about the path from list price to discount to net price. Fewer columns keep the Quote Line Editor readable on a screen share and in recordings, and leave out columns that aren't used yet, like partner and distributor discounts. Subscription Term is shown because AppleCare is a subscription, and its term drives the price and the Phase 2 amendments and renewals.
 
 **What it affects later.**
 
 - Hidden fields are still calculated and stored. They just aren't shown.
-- Add fields to the field set as later phases need them: subscription term, start date and end date for Phase 2 amendments and renewals; segment columns for Phase 3 MDQ ramps; and any custom fields, such as a trade-in credit for Lone Star Logistics.
-- Unlike the package settings, the field set is metadata and can be retrieved. Retrieve it into the repo if it becomes hard to track by hand.
+- Add fields to the field set as later phases need them: start date and end date for Phase 2 amendments and renewals; segment columns for Phase 3 MDQ ramps; and any custom fields, such as a trade-in credit for Lone Star Logistics.
+- Unlike the package settings, the field set is metadata and is tracked in the repo at `force-app/main/default/objects/SBQQ__QuoteLine__c/fieldSets/SBQQ__LineEditor.fieldSet-meta.xml`. Change it there and deploy, rather than editing it in Setup.
 
 ## Rebuilding the org
 
-To configure a new org, open **Setup > Installed Packages > Salesforce CPQ > Configure** and apply the summary table above. Then edit the `SBQQ__LineEditor` field set on Quote Line. If you change a setting, update this record or add a new record that replaces it.
+To configure a new org, open **Setup > Installed Packages > Salesforce CPQ > Configure** and apply the summary table above. Then deploy the field set with `sf project deploy start --metadata "FieldSet:SBQQ__QuoteLine__c.SBQQ__LineEditor"`. If you change a setting, update this record or add a new record that replaces it.
