@@ -1,0 +1,115 @@
+{
+  "allOrNone": true,
+  "records": [
+    {
+      "attributes": {
+        "type": "Contact"
+      },
+      "AGTM_External_Id__c": "CON-MIDTOWN",
+      "FirstName": "Jordan",
+      "LastName": "Lee",
+      "Title": "IT Director",
+      "Department": "IT",
+      "Email": "jordan.lee@example.com",
+      "Phone": "(214) 555-0111",
+      "LeadSource": "Partner",
+      "MailingStreet": "5800 Lantern Ridge Parkway, Suite 400",
+      "MailingCity": "Plano",
+      "MailingState": "TX",
+      "MailingPostalCode": "75024",
+      "MailingCountry": "United States",
+      "Account": {
+        "AGTM_External_Id__c": "ACC-MIDTOWN"
+      },
+      "Demo_Scenario__c": "Apple GTM CPQ"
+    },
+    {
+      "attributes": {
+        "type": "Contact"
+      },
+      "AGTM_External_Id__c": "CON-MIDTOWN-2",
+      "FirstName": "Morgan",
+      "LastName": "Chen",
+      "Title": "VP Finance",
+      "Department": "Finance",
+      "Email": "morgan.chen@example.com",
+      "Phone": "(214) 555-0112",
+      "LeadSource": "Partner",
+      "MailingStreet": "5800 Lantern Ridge Parkway, Suite 400",
+      "MailingCity": "Plano",
+      "MailingState": "TX",
+      "MailingPostalCode": "75024",
+      "MailingCountry": "United States",
+      "Account": {
+        "AGTM_External_Id__c": "ACC-MIDTOWN"
+      },
+      "Demo_Scenario__c": "Apple GTM CPQ"
+    },
+    {
+      "attributes": {
+        "type": "Contact"
+      },
+      "AGTM_External_Id__c": "CON-WEBLINE",
+      "FirstName": "Sam",
+      "LastName": "Ortiz",
+      "Title": "Field Ops Manager",
+      "Department": "Operations",
+      "Email": "sam.ortiz@example.com",
+      "Phone": "(512) 555-0121",
+      "LeadSource": "Web",
+      "MailingStreet": "1100 Splice Yard Road, Building C",
+      "MailingCity": "Austin",
+      "MailingState": "TX",
+      "MailingPostalCode": "78741",
+      "MailingCountry": "United States",
+      "Account": {
+        "AGTM_External_Id__c": "ACC-WEBLINE"
+      },
+      "Demo_Scenario__c": "Apple GTM CPQ"
+    },
+    {
+      "attributes": {
+        "type": "Contact"
+      },
+      "AGTM_External_Id__c": "CON-QUEENSBRIDGE",
+      "FirstName": "Priya",
+      "LastName": "Shah",
+      "Title": "CFO",
+      "Department": "Finance",
+      "Email": "priya.shah@example.com",
+      "Phone": "(212) 555-0131",
+      "LeadSource": "Referral",
+      "MailingStreet": "210 Halcyon Street, Floor 12",
+      "MailingCity": "New York",
+      "MailingState": "NY",
+      "MailingPostalCode": "10013",
+      "MailingCountry": "United States",
+      "Account": {
+        "AGTM_External_Id__c": "ACC-QUEENSBRIDGE"
+      },
+      "Demo_Scenario__c": "Apple GTM CPQ"
+    },
+    {
+      "attributes": {
+        "type": "Contact"
+      },
+      "AGTM_External_Id__c": "CON-BROOKLYN",
+      "FirstName": "Alex",
+      "LastName": "Kim",
+      "Title": "Head of IT",
+      "Department": "IT",
+      "Email": "alex.kim@example.com",
+      "Phone": "(718) 555-0141",
+      "LeadSource": "Trade Show",
+      "MailingStreet": "45 Cobblestone Yard, Unit 3",
+      "MailingCity": "Brooklyn",
+      "MailingState": "NY",
+      "MailingPostalCode": "11201",
+      "MailingCountry": "United States",
+      "Account": {
+        "AGTM_External_Id__c": "ACC-BROOKLYN"
+      },
+      "Demo_Scenario__c": "Apple GTM CPQ"
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>AGTM_External_Id__c</fullName>
+    <description
+  >Stable key for demo OpportunityContactRole records in data/demo/. Opportunity Contact Role fields cannot be External ID or Unique, so scripts/load-demo.mjs matches on this value with a query instead of an upsert.</description>
+    <label>AGTM External ID</label>
+    <length>80</length>
+    <required>false</required>
+    <trackTrending>false</trackTrending>
+    <type>Text</type>
+</CustomField>
