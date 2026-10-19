@@ -1,0 +1,75 @@
+{
+  "allOrNone": true,
+  "records": [
+    {
+      "attributes": {
+        "type": "OpportunityContactRole"
+      },
+      "AGTM_External_Id__c": "OCR-MIDTOWN",
+      "Opportunity": {
+        "AGTM_External_Id__c": "OPP-MIDTOWN"
+      },
+      "Contact": {
+        "AGTM_External_Id__c": "CON-MIDTOWN"
+      },
+      "Role": "Decision Maker",
+      "IsPrimary": true
+    },
+    {
+      "attributes": {
+        "type": "OpportunityContactRole"
+      },
+      "AGTM_External_Id__c": "OCR-MIDTOWN-2",
+      "Opportunity": {
+        "AGTM_External_Id__c": "OPP-MIDTOWN"
+      },
+      "Contact": {
+        "AGTM_External_Id__c": "CON-MIDTOWN-2"
+      },
+      "Role": "Economic Buyer",
+      "IsPrimary": false
+    },
+    {
+      "attributes": {
+        "type": "OpportunityContactRole"
+      },
+      "AGTM_External_Id__c": "OCR-WEBLINE",
+      "Opportunity": {
+        "AGTM_External_Id__c": "OPP-WEBLINE"
+      },
+      "Contact": {
+        "AGTM_External_Id__c": "CON-WEBLINE"
+      },
+      "Role": "Decision Maker",
+      "IsPrimary": true
+    },
+    {
+      "attributes": {
+        "type": "OpportunityContactRole"
+      },
+      "AGTM_External_Id__c": "OCR-QUEENSBRIDGE",
+      "Opportunity": {
+        "AGTM_External_Id__c": "OPP-QUEENSBRIDGE"
+      },
+      "Contact": {
+        "AGTM_External_Id__c": "CON-QUEENSBRIDGE"
+      },
+      "Role": "Decision Maker",
+      "IsPrimary": true
+    },
+    {
+      "attributes": {
+        "type": "OpportunityContactRole"
+      },
+      "AGTM_External_Id__c": "OCR-BROOKLYN",
+      "Opportunity": {
+        "AGTM_External_Id__c": "OPP-BROOKLYN"
+      },
+      "Contact": {
+        "AGTM_External_Id__c": "CON-BROOKLYN"
+      },
+      "Role": "Decision Maker",
+      "IsPrimary": true
+    }
+  ]
+}

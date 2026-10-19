@@ -1,0 +1,27 @@
+{
+  "allOrNone": true,
+  "records": [
+    {
+      "attributes": {
+        "type": "SBQQ__Quote__c"
+      },
+      "AGTM_External_Id__c": "QTE-MIDTOWN-001",
+      "SBQQ__Account__r": {
+        "AGTM_External_Id__c": "ACC-MIDTOWN"
+      },
+      "SBQQ__Opportunity2__r": {
+        "AGTM_External_Id__c": "OPP-MIDTOWN"
+      },
+      "SBQQ__Primary__c": true,
+      "SBQQ__StartDate__c": "2026-10-08",
+      "SBQQ__SubscriptionTerm__c": 36,
+      "SBQQ__Status__c": "Draft",
+      "SBQQ__PriceBook__c": "{{StandardPricebookId}}",
+      "SBQQ__SalesRep__c": "{{UserId:riley.navarro@apple-gtm-cpq.demo}}",
+      "SBQQ__PrimaryContact__r": {
+        "AGTM_External_Id__c": "CON-MIDTOWN"
+      },
+      "Demo_Scenario__c": "Apple GTM CPQ"
+    }
+  ]
+}

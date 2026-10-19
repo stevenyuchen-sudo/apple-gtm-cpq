@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<GlobalValueSet xmlns="http://soap.sforce.com/2006/04/metadata">
+    <customValue>
+        <fullName>Apple GTM CPQ</fullName>
+        <default>false</default>
+        <label>Apple GTM CPQ</label>
+    </customValue>
+    <description
+  >Tags demo records by scenario so one demo can be filtered, reported on and reset without touching others. A new demo adds a value here.</description>
+    <masterLabel>Demo Scenario</masterLabel>
+    <sorted>false</sorted>
+</GlobalValueSet>

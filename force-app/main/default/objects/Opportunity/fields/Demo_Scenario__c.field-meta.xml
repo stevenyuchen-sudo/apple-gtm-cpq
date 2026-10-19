@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Demo_Scenario__c</fullName>
+    <description
+  >Which demo this record belongs to. Filter on it to report on or reset one demo's records.</description>
+    <label>Demo Scenario</label>
+    <required>false</required>
+    <trackTrending>false</trackTrending>
+    <type>Picklist</type>
+    <valueSet>
+        <restricted>true</restricted>
+        <valueSetName>Demo_Scenario</valueSetName>
+    </valueSet>
+</CustomField>

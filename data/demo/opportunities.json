@@ -1,0 +1,81 @@
+{
+  "allOrNone": true,
+  "records": [
+    {
+      "attributes": {
+        "type": "Opportunity"
+      },
+      "AGTM_External_Id__c": "OPP-MIDTOWN",
+      "Name": "Midtown Systems – Device Program",
+      "Account": {
+        "AGTM_External_Id__c": "ACC-MIDTOWN"
+      },
+      "OwnerId": "{{UserId:riley.navarro@apple-gtm-cpq.demo}}",
+      "Type": "New Business",
+      "LeadSource": "Partner",
+      "StageName": "Proposal/Price Quote",
+      "CloseDate": "2026-11-18",
+      "NextStep": "Send 500-bundle quote to Jordan Lee",
+      "Description": "Company-wide refresh, 2,000 devices, 3-year AppleCare",
+      "Pricebook2Id": "{{StandardPricebookId}}",
+      "Demo_Scenario__c": "Apple GTM CPQ"
+    },
+    {
+      "attributes": {
+        "type": "Opportunity"
+      },
+      "AGTM_External_Id__c": "OPP-WEBLINE",
+      "Name": "Webline Networks – Device Program",
+      "Account": {
+        "AGTM_External_Id__c": "ACC-WEBLINE"
+      },
+      "OwnerId": "{{UserId:riley.navarro@apple-gtm-cpq.demo}}",
+      "Type": "New Business",
+      "LeadSource": "Web",
+      "StageName": "Qualification",
+      "CloseDate": "2026-12-18",
+      "NextStep": "Confirm device count and trade-in fleet",
+      "Description": "Frontline devices for 600 field techs",
+      "Pricebook2Id": "{{StandardPricebookId}}",
+      "Demo_Scenario__c": "Apple GTM CPQ"
+    },
+    {
+      "attributes": {
+        "type": "Opportunity"
+      },
+      "AGTM_External_Id__c": "OPP-QUEENSBRIDGE",
+      "Name": "Queensbridge Labs – Device Program",
+      "Account": {
+        "AGTM_External_Id__c": "ACC-QUEENSBRIDGE"
+      },
+      "OwnerId": "{{UserId:riley.navarro@apple-gtm-cpq.demo}}",
+      "Type": "New Business",
+      "LeadSource": "Referral",
+      "StageName": "Needs Analysis",
+      "CloseDate": "2027-01-17",
+      "NextStep": "Review executive configurations with Priya Shah",
+      "Description": "Executive devices for 150 leaders",
+      "Pricebook2Id": "{{StandardPricebookId}}",
+      "Demo_Scenario__c": "Apple GTM CPQ"
+    },
+    {
+      "attributes": {
+        "type": "Opportunity"
+      },
+      "AGTM_External_Id__c": "OPP-BROOKLYN",
+      "Name": "Brooklyn Visions Tech – Device Program",
+      "Account": {
+        "AGTM_External_Id__c": "ACC-BROOKLYN"
+      },
+      "OwnerId": "{{UserId:riley.navarro@apple-gtm-cpq.demo}}",
+      "Type": "New Business",
+      "LeadSource": "Trade Show",
+      "StageName": "Prospecting",
+      "CloseDate": "2027-02-16",
+      "NextStep": "Intro call on Mac refresh",
+      "Description": "MacBook and iPhone refresh for 300 designers",
+      "Pricebook2Id": "{{StandardPricebookId}}",
+      "Demo_Scenario__c": "Apple GTM CPQ"
+    }
+  ]
+}
