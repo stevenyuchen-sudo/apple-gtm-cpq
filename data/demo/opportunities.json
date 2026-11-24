@@ -5,16 +5,16 @@
       "attributes": {
         "type": "Opportunity"
       },
-      "AGTM_External_Id__c": "OPP-MIDTOWN",
-      "Name": "Midtown Systems – Device Program",
+      "AGTM_External_Id__c": "OPP-FABRIAL",
+      "Name": "Fabrial Systems – Device Program",
       "Account": {
-        "AGTM_External_Id__c": "ACC-MIDTOWN"
+        "AGTM_External_Id__c": "ACC-FABRIAL"
       },
       "OwnerId": "{{UserId:riley.navarro@apple-gtm-cpq.demo}}",
       "Type": "New Business",
       "LeadSource": "Partner",
       "StageName": "Proposal/Price Quote",
-      "CloseDate": "2026-11-18",
+      "CloseDate": "{{Today+30}}",
       "NextStep": "Send 500-bundle quote to Jordan Lee",
       "Description": "Company-wide refresh, 2,000 devices, 3-year AppleCare",
       "Pricebook2Id": "{{StandardPricebookId}}",
@@ -24,16 +24,16 @@
       "attributes": {
         "type": "Opportunity"
       },
-      "AGTM_External_Id__c": "OPP-WEBLINE",
-      "Name": "Webline Networks – Device Program",
+      "AGTM_External_Id__c": "OPP-SPANREED",
+      "Name": "Spanreed Networks – Device Program",
       "Account": {
-        "AGTM_External_Id__c": "ACC-WEBLINE"
+        "AGTM_External_Id__c": "ACC-SPANREED"
       },
       "OwnerId": "{{UserId:riley.navarro@apple-gtm-cpq.demo}}",
       "Type": "New Business",
       "LeadSource": "Web",
       "StageName": "Qualification",
-      "CloseDate": "2026-12-18",
+      "CloseDate": "{{Today+60}}",
       "NextStep": "Confirm device count and trade-in fleet",
       "Description": "Frontline devices for 600 field techs",
       "Pricebook2Id": "{{StandardPricebookId}}",
@@ -43,16 +43,16 @@
       "attributes": {
         "type": "Opportunity"
       },
-      "AGTM_External_Id__c": "OPP-QUEENSBRIDGE",
-      "Name": "Queensbridge Labs – Device Program",
+      "AGTM_External_Id__c": "OPP-ELANTRIS",
+      "Name": "Elantris Labs – Device Program",
       "Account": {
-        "AGTM_External_Id__c": "ACC-QUEENSBRIDGE"
+        "AGTM_External_Id__c": "ACC-ELANTRIS"
       },
       "OwnerId": "{{UserId:riley.navarro@apple-gtm-cpq.demo}}",
       "Type": "New Business",
       "LeadSource": "Referral",
       "StageName": "Needs Analysis",
-      "CloseDate": "2027-01-17",
+      "CloseDate": "{{Today+90}}",
       "NextStep": "Review executive configurations with Priya Shah",
       "Description": "Executive devices for 150 leaders",
       "Pricebook2Id": "{{StandardPricebookId}}",
@@ -62,16 +62,16 @@
       "attributes": {
         "type": "Opportunity"
       },
-      "AGTM_External_Id__c": "OPP-BROOKLYN",
-      "Name": "Brooklyn Visions Tech – Device Program",
+      "AGTM_External_Id__c": "OPP-LIGHTWEAVER",
+      "Name": "Lightweaver Studios – Device Program",
       "Account": {
-        "AGTM_External_Id__c": "ACC-BROOKLYN"
+        "AGTM_External_Id__c": "ACC-LIGHTWEAVER"
       },
       "OwnerId": "{{UserId:riley.navarro@apple-gtm-cpq.demo}}",
       "Type": "New Business",
       "LeadSource": "Trade Show",
       "StageName": "Prospecting",
-      "CloseDate": "2027-02-16",
+      "CloseDate": "{{Today+120}}",
       "NextStep": "Intro call on Mac refresh",
       "Description": "MacBook and iPhone refresh for 300 designers",
       "Pricebook2Id": "{{StandardPricebookId}}",

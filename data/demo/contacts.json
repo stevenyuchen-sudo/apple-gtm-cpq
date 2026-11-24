@@ -5,7 +5,7 @@
       "attributes": {
         "type": "Contact"
       },
-      "AGTM_External_Id__c": "CON-MIDTOWN",
+      "AGTM_External_Id__c": "CON-FABRIAL",
       "FirstName": "Jordan",
       "LastName": "Lee",
       "Title": "IT Director",
@@ -19,7 +19,7 @@
       "MailingPostalCode": "75024",
       "MailingCountry": "United States",
       "Account": {
-        "AGTM_External_Id__c": "ACC-MIDTOWN"
+        "AGTM_External_Id__c": "ACC-FABRIAL"
       },
       "Demo_Scenario__c": "Apple GTM CPQ"
     },
@@ -27,7 +27,7 @@
       "attributes": {
         "type": "Contact"
       },
-      "AGTM_External_Id__c": "CON-MIDTOWN-2",
+      "AGTM_External_Id__c": "CON-FABRIAL-2",
       "FirstName": "Morgan",
       "LastName": "Chen",
       "Title": "VP Finance",
@@ -41,7 +41,7 @@
       "MailingPostalCode": "75024",
       "MailingCountry": "United States",
       "Account": {
-        "AGTM_External_Id__c": "ACC-MIDTOWN"
+        "AGTM_External_Id__c": "ACC-FABRIAL"
       },
       "Demo_Scenario__c": "Apple GTM CPQ"
     },
@@ -49,7 +49,7 @@
       "attributes": {
         "type": "Contact"
       },
-      "AGTM_External_Id__c": "CON-WEBLINE",
+      "AGTM_External_Id__c": "CON-SPANREED",
       "FirstName": "Sam",
       "LastName": "Ortiz",
       "Title": "Field Ops Manager",
@@ -63,7 +63,7 @@
       "MailingPostalCode": "78741",
       "MailingCountry": "United States",
       "Account": {
-        "AGTM_External_Id__c": "ACC-WEBLINE"
+        "AGTM_External_Id__c": "ACC-SPANREED"
       },
       "Demo_Scenario__c": "Apple GTM CPQ"
     },
@@ -71,7 +71,7 @@
       "attributes": {
         "type": "Contact"
       },
-      "AGTM_External_Id__c": "CON-QUEENSBRIDGE",
+      "AGTM_External_Id__c": "CON-ELANTRIS",
       "FirstName": "Priya",
       "LastName": "Shah",
       "Title": "CFO",
@@ -85,7 +85,7 @@
       "MailingPostalCode": "10013",
       "MailingCountry": "United States",
       "Account": {
-        "AGTM_External_Id__c": "ACC-QUEENSBRIDGE"
+        "AGTM_External_Id__c": "ACC-ELANTRIS"
       },
       "Demo_Scenario__c": "Apple GTM CPQ"
     },
@@ -93,7 +93,7 @@
       "attributes": {
         "type": "Contact"
       },
-      "AGTM_External_Id__c": "CON-BROOKLYN",
+      "AGTM_External_Id__c": "CON-LIGHTWEAVER",
       "FirstName": "Alex",
       "LastName": "Kim",
       "Title": "Head of IT",
@@ -107,7 +107,7 @@
       "MailingPostalCode": "11201",
       "MailingCountry": "United States",
       "Account": {
-        "AGTM_External_Id__c": "ACC-BROOKLYN"
+        "AGTM_External_Id__c": "ACC-LIGHTWEAVER"
       },
       "Demo_Scenario__c": "Apple GTM CPQ"
     }

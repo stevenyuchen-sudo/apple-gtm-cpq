@@ -5,12 +5,12 @@
       "attributes": {
         "type": "SBQQ__Quote__c"
       },
-      "AGTM_External_Id__c": "QTE-MIDTOWN-001",
+      "AGTM_External_Id__c": "QTE-FABRIAL-001",
       "SBQQ__Account__r": {
-        "AGTM_External_Id__c": "ACC-MIDTOWN"
+        "AGTM_External_Id__c": "ACC-FABRIAL"
       },
       "SBQQ__Opportunity2__r": {
-        "AGTM_External_Id__c": "OPP-MIDTOWN"
+        "AGTM_External_Id__c": "OPP-FABRIAL"
       },
       "SBQQ__Primary__c": true,
       "SBQQ__StartDate__c": "2026-10-08",
@@ -19,7 +19,7 @@
       "SBQQ__PriceBook__c": "{{StandardPricebookId}}",
       "SBQQ__SalesRep__c": "{{UserId:riley.navarro@apple-gtm-cpq.demo}}",
       "SBQQ__PrimaryContact__r": {
-        "AGTM_External_Id__c": "CON-MIDTOWN"
+        "AGTM_External_Id__c": "CON-FABRIAL"
       },
       "Demo_Scenario__c": "Apple GTM CPQ"
     }

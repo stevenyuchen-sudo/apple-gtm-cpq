@@ -5,8 +5,8 @@
       "attributes": {
         "type": "Account"
       },
-      "AGTM_External_Id__c": "ACC-MIDTOWN",
-      "Name": "Midtown Systems",
+      "AGTM_External_Id__c": "ACC-FABRIAL",
+      "Name": "Fabrial Systems",
       "OwnerId": "{{UserId:riley.navarro@apple-gtm-cpq.demo}}",
       "Industry": "Technology",
       "Type": "Prospect",
@@ -15,7 +15,7 @@
       "AnnualRevenue": 450000000,
       "AccountSource": "Partner",
       "Rating": "Hot",
-      "Website": "https://midtown.example.com",
+      "Website": "https://fabrial.example.com",
       "Description": "Enterprise software; 2,000 staff moving to iPhone and Apple Watch",
       "BillingStreet": "5800 Lantern Ridge Parkway, Suite 400",
       "BillingCity": "Plano",
@@ -33,8 +33,8 @@
       "attributes": {
         "type": "Account"
       },
-      "AGTM_External_Id__c": "ACC-WEBLINE",
-      "Name": "Webline Networks",
+      "AGTM_External_Id__c": "ACC-SPANREED",
+      "Name": "Spanreed Networks",
       "OwnerId": "{{UserId:riley.navarro@apple-gtm-cpq.demo}}",
       "Industry": "Technology",
       "Type": "Prospect",
@@ -43,7 +43,7 @@
       "AnnualRevenue": 120000000,
       "AccountSource": "Web",
       "Rating": "Warm",
-      "Website": "https://webline.example.com",
+      "Website": "https://spanreed.example.com",
       "Description": "Builds fiber networks; 600 field technicians",
       "BillingStreet": "1100 Splice Yard Road, Building C",
       "BillingCity": "Austin",
@@ -61,8 +61,8 @@
       "attributes": {
         "type": "Account"
       },
-      "AGTM_External_Id__c": "ACC-QUEENSBRIDGE",
-      "Name": "Queensbridge Labs",
+      "AGTM_External_Id__c": "ACC-ELANTRIS",
+      "Name": "Elantris Labs",
       "OwnerId": "{{UserId:riley.navarro@apple-gtm-cpq.demo}}",
       "Industry": "Technology",
       "Type": "Prospect",
@@ -71,7 +71,7 @@
       "AnnualRevenue": 60000000,
       "AccountSource": "Referral",
       "Rating": "Hot",
-      "Website": "https://queensbridge.example.com",
+      "Website": "https://elantris.example.com",
       "Description": "AI research lab; executive device program",
       "BillingStreet": "210 Halcyon Street, Floor 12",
       "BillingCity": "New York",
@@ -89,8 +89,8 @@
       "attributes": {
         "type": "Account"
       },
-      "AGTM_External_Id__c": "ACC-BROOKLYN",
-      "Name": "Brooklyn Visions Tech",
+      "AGTM_External_Id__c": "ACC-LIGHTWEAVER",
+      "Name": "Lightweaver Studios",
       "OwnerId": "{{UserId:riley.navarro@apple-gtm-cpq.demo}}",
       "Industry": "Technology",
       "Type": "Prospect",
@@ -99,7 +99,7 @@
       "AnnualRevenue": 35000000,
       "AccountSource": "Trade Show",
       "Rating": "Cold",
-      "Website": "https://brooklynvisions.example.com",
+      "Website": "https://lightweaver.example.com",
       "Description": "Product design studio; Mac-heavy",
       "BillingStreet": "45 Cobblestone Yard, Unit 3",
       "BillingCity": "Brooklyn",

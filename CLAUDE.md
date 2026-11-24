@@ -6,7 +6,7 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 
 Salesforce DX project for a B2B quote-to-cash demo: selling iPhone 18 Pro and Apple Watch Series 12 fleets to enterprises. It is built first on **Salesforce CPQ** (managed package, `SBQQ__` namespace), then rebuilt on **Revenue Cloud Advanced** to compare the two platforms. Independent demo, not affiliated with Apple; customers and some prices are fictional.
 
-Demo customers (keep data consistent with these): Northstar Health (2,000 clinicians, iPhone + cellular Watch kits, AppleCare), Lone Star Logistics (600 drivers, trade-in of an older fleet), Brazos Financial (150 executives, negotiated pricing, strict approvals).
+Demo customers (keep data consistent with these and with `data/demo/`): four fictional tech accounts, each with one "<Account> – Device Program" opportunity. Fabrial Systems (2,000 staff, Plano TX, enterprise software; holds the primary 36-month quote), Spanreed Networks (600 field technicians, Austin TX, fiber networks), Elantris Labs (150, New York NY, AI research lab; executive device program), Lightweaver Studios (300, Brooklyn NY, product design studio; Mac-heavy). The playbook (a Claude Doc) is the source of truth for demo data.
 
 Roadmap phases (see README): 1) CPQ MVP: catalog, pricing table, bundle, rules, discount tiers, quote PDF; 2) approvals, guided selling, amendments, renewals; 3) MDQ ramp, QCP, AI deal desk, integration, scale test; 4) Revenue Cloud Advanced rebuild + migration map.
 

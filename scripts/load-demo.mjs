@@ -9,6 +9,8 @@
 //   {{StandardPricebookId}}  the org's Standard Price Book
 //   {{UserId:<username>}}    that user's Id; if the user doesn't exist, the field
 //                            is dropped and the record keeps its default owner/rep
+//   {{Today+<days>}}         a date that many days from today, so close dates
+//                            stay in the future however late the data is loaded
 
 import { readFileSync } from "node:fs";
 import {
@@ -33,18 +35,31 @@ function userId(username) {
   return users.get(username);
 }
 
+function daysFromToday(days) {
+  const date = new Date();
+  date.setDate(date.getDate() + days);
+  const pad = (n) => String(n).padStart(2, "0");
+  return `${date.getFullYear()}-${pad(date.getMonth() + 1)}-${pad(date.getDate())}`;
+}
+
 const pricebookId = standardPricebookId();
+// Returns the value with any placeholder resolved; undefined drops the field.
+function resolveValue(value) {
+  if (value === "{{StandardPricebookId}}") return pricebookId;
+  const today = /^\{\{Today\+(\d+)\}\}$/.exec(value);
+  if (today) return daysFromToday(Number(today[1]));
+  const user = /^\{\{UserId:(.+)\}\}$/.exec(value);
+  if (user) return userId(user[1]);
+  return value;
+}
+
 function resolve(body) {
   for (const record of body.records) {
     for (const [field, value] of Object.entries(record)) {
       if (typeof value !== "string") continue;
-      if (value === "{{StandardPricebookId}}") record[field] = pricebookId;
-      const user = value.match(/^\{\{UserId:(.+)\}\}$/);
-      if (user) {
-        const id = userId(user[1]);
-        if (id) record[field] = id;
-        else delete record[field];
-      }
+      const resolved = resolveValue(value);
+      if (resolved === undefined) delete record[field];
+      else record[field] = resolved;
     }
   }
   return body;
