@@ -9,9 +9,10 @@ Revenue Cloud Advanced to compare the two platforms.
 
 ## Scenario
 
-- **Northstar Health:** 2,000 clinicians, iPhone + cellular Watch kits, AppleCare
-- **Lone Star Logistics:** 600 drivers, trade-in of an older fleet
-- **Brazos Financial:** 150 executives, negotiated pricing, strict approvals
+- **Fabrial Systems:** enterprise software, 2,000 staff moving to iPhone and Apple Watch, 3-year AppleCare
+- **Spanreed Networks:** fiber networks, frontline devices for 600 field technicians, trade-in fleet
+- **Elantris Labs:** AI research lab, executive device program for 150 leaders
+- **Lightweaver Studios:** product design studio, Mac-heavy, 300 designers
 
 ## Roadmap
 

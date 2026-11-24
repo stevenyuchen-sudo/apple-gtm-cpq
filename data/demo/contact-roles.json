@@ -5,12 +5,12 @@
       "attributes": {
         "type": "OpportunityContactRole"
       },
-      "AGTM_External_Id__c": "OCR-MIDTOWN",
+      "AGTM_External_Id__c": "OCR-FABRIAL",
       "Opportunity": {
-        "AGTM_External_Id__c": "OPP-MIDTOWN"
+        "AGTM_External_Id__c": "OPP-FABRIAL"
       },
       "Contact": {
-        "AGTM_External_Id__c": "CON-MIDTOWN"
+        "AGTM_External_Id__c": "CON-FABRIAL"
       },
       "Role": "Decision Maker",
       "IsPrimary": true
@@ -19,12 +19,12 @@
       "attributes": {
         "type": "OpportunityContactRole"
       },
-      "AGTM_External_Id__c": "OCR-MIDTOWN-2",
+      "AGTM_External_Id__c": "OCR-FABRIAL-2",
       "Opportunity": {
-        "AGTM_External_Id__c": "OPP-MIDTOWN"
+        "AGTM_External_Id__c": "OPP-FABRIAL"
       },
       "Contact": {
-        "AGTM_External_Id__c": "CON-MIDTOWN-2"
+        "AGTM_External_Id__c": "CON-FABRIAL-2"
       },
       "Role": "Economic Buyer",
       "IsPrimary": false
@@ -33,12 +33,12 @@
       "attributes": {
         "type": "OpportunityContactRole"
       },
-      "AGTM_External_Id__c": "OCR-WEBLINE",
+      "AGTM_External_Id__c": "OCR-SPANREED",
       "Opportunity": {
-        "AGTM_External_Id__c": "OPP-WEBLINE"
+        "AGTM_External_Id__c": "OPP-SPANREED"
       },
       "Contact": {
-        "AGTM_External_Id__c": "CON-WEBLINE"
+        "AGTM_External_Id__c": "CON-SPANREED"
       },
       "Role": "Decision Maker",
       "IsPrimary": true
@@ -47,12 +47,12 @@
       "attributes": {
         "type": "OpportunityContactRole"
       },
-      "AGTM_External_Id__c": "OCR-QUEENSBRIDGE",
+      "AGTM_External_Id__c": "OCR-ELANTRIS",
       "Opportunity": {
-        "AGTM_External_Id__c": "OPP-QUEENSBRIDGE"
+        "AGTM_External_Id__c": "OPP-ELANTRIS"
       },
       "Contact": {
-        "AGTM_External_Id__c": "CON-QUEENSBRIDGE"
+        "AGTM_External_Id__c": "CON-ELANTRIS"
       },
       "Role": "Decision Maker",
       "IsPrimary": true
@@ -61,12 +61,12 @@
       "attributes": {
         "type": "OpportunityContactRole"
       },
-      "AGTM_External_Id__c": "OCR-BROOKLYN",
+      "AGTM_External_Id__c": "OCR-LIGHTWEAVER",
       "Opportunity": {
-        "AGTM_External_Id__c": "OPP-BROOKLYN"
+        "AGTM_External_Id__c": "OPP-LIGHTWEAVER"
       },
       "Contact": {
-        "AGTM_External_Id__c": "CON-BROOKLYN"
+        "AGTM_External_Id__c": "CON-LIGHTWEAVER"
       },
       "Role": "Decision Maker",
       "IsPrimary": true
